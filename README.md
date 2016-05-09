@@ -1,27 +1,60 @@
-# Laravel PHP Framework
+# Mastery-Comparison
+This is our entry to the RIOT GAMES API CHALLENGE 3.0
+# Live URL
+https://mastery-comparison.herokuapp.com/
+# What's this?
+This is our entry to the RIOT GAMES API CHALLENGE 3.0 : Entertainment category.
+# What is it about?
+Mastery Comparison is a web based application, which is created to compare two summoners' mastery points of the selected champion. After that the visitor has to guess who has more points.
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+# How to use?
+Opening the application, you find a short instruction about what's this site and what you need to do.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+First, you have to fill two summoners' name and select the regions of them. After that, you have to select a champion who you want to compare between the two summoners. You can choose random champion by the "Random" button.
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+Next, the application going to collect the data and you have to choose between the summoners' by who do you think have more points.
 
-## Official Documentation
+Finaly, you will get a result page about your choice with other useful infos.
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+You have the chance to share the result and challenge your friends or replay the whole game with new inputs.
 
-## Contributing
+# If you'd like to setup our project
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+Count with these requirements:
 
-## Security Vulnerabilities
+- PHP >= 5.5.9
+- OpenSSL PHP Extension
+- PDO PHP Extension
+- Mbstring PHP Extension
+- Tokenizer PHP Extension
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+1. Copy the files onto a web server.
+2. Mark the "public" folder as the root folder on your web server.
+2. Create a database
+3. Edit ".env" file and fill the empty strings in it.
+3. Run "php artisan key:generate" command in the project's main folder with your command line to create an APP_KEY
+4. Run "php artisan migrate" command in the project's main folder with your command line to create the table.
+5. Call this URL in your browser to import champions data: http://yoursite.com/db_update
+6. Try out our App! :)
 
-## License
+# Under the hood
+a lot
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+# What we learned under the development
+- Javascript is still a struggle (beside that we love it and we learned a lot)
+- Wireframe is a good thing to make a plan about the design
+- We learned about Facebook/Twitter API
+- We tried out Heroku's web services and we loved it. - https://www.heroku.com/
+
+# Technologies
+- PHP/Laravel framework - We choose Laravel as a framework to speed up our development process. - http://laravel.com/
+- Bootstrap - http://getbootstrap.com/
+- jQuery - https://jquery.com/
+- LESS - http://lesscss.org/
+- Chart.js - The unofficial partner of the Riot API Challenges :) - http://www.chartjs.org/
+
+# To Do List
+- FULL RESPONSIVE
+
+# Licence
+We dont have any.

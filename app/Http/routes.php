@@ -1,5 +1,5 @@
 <?php
-
+use ;
 /*
 |--------------------------------------------------------------------------
 | Application Routes
@@ -14,3 +14,9 @@
 Route::get('/', 'HomeController@index');
 
 Route::post('/','HomeController@magic');
+
+Route::get('db_update',function(){
+    $api = new \App\Http\RiotApi();
+    $api->getChampionsData('eune');
+    return "done";
+})
