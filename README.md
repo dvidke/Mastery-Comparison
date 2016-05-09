@@ -37,9 +37,6 @@ Count with these requirements:
 5. Call this URL in your browser to import champions data: http://yoursite.com/db_update
 6. Try out our App! :)
 
-# Under the hood
-a lot
-
 # What we learned under the development
 - Javascript is still a struggle (beside that we love it and we learned a lot)
 - Wireframe is a good thing to make a plan about the design
