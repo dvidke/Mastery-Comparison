@@ -40,23 +40,23 @@ Count with these requirements:
 # What we learned under the development
 - Javascript is still a struggle (beside that we love it and we learned a lot)
 - Wireframe is a good thing to make a plan about the design
-- We learned about Facebook/Twitter API
-- We tried out Heroku's web services and we loved it. - https://www.heroku.com/
+- We have learned about Facebook/Twitter API
+- We have tried out Heroku's web services and we loved it. - https://www.heroku.com/
 
 # "Easter Egg"
 - Try to select Teemo and compare with him/her/hamster.
 
 # Technologies
-- PHP/Laravel framework - We choose Laravel as a framework to speed up our development process. - http://laravel.com/
+- PHP/Laravel framework - We have choosen Laravel as a framework to speed up our development process. - http://laravel.com/
 - Bootstrap - http://getbootstrap.com/
 - jQuery - https://jquery.com/
 - LESS - http://lesscss.org/
-- Chart.js - The unofficial partner of the Riot API Challenges :) - http://www.chartjs.org/
+- Chart.js - http://www.chartjs.org/
 
 # To Do List
 - FULL RESPONSIVE
 
 # Licence
-We dont have any. (JK!)
+We don't have any. (JK!)
 
 Mastery Comparison isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
