@@ -12,7 +12,7 @@ Opening the application, you find a short instruction about what's this site and
 
 First, you have to fill two summoners' name and select the regions of them. After that, you have to select a champion who you want to compare between the two summoners. You can choose random champion by the "Random" button.
 
-Next, the application going to collect the data and you have to choose between the summoners' by who do you think have more points.
+Next, the application going to collect the data and you have to choose between the summoners by who do you think have more points.
 
 Finaly, you will get a result page about your choice with other useful infos.
 
