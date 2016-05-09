@@ -47,7 +47,7 @@ Count with these requirements:
 - Try to select Teemo and compare with him/her/hamster.
 
 # Technologies
-- PHP/Laravel framework - We have choosen Laravel as a framework to speed up our development process. - http://laravel.com/
+- PHP/Laravel framework - We have chosen Laravel as a framework to speed up our development process. - http://laravel.com/
 - Bootstrap - http://getbootstrap.com/
 - jQuery - https://jquery.com/
 - LESS - http://lesscss.org/
