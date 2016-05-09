@@ -38,7 +38,7 @@ Count with these requirements:
 6. Try out our App! :)
 
 # What we learned under the development
-- Javascript is still a struggle (beside that we love it and we learned a lot)
+- Javascript is still a struggle (beside that we love it and we have learned a lot)
 - Wireframe is a good thing to make a plan about the design
 - We have learned about Facebook/Twitter API
 - We have tried out Heroku's web services and we loved it. - https://www.heroku.com/
