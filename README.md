@@ -43,6 +43,9 @@ Count with these requirements:
 - We learned about Facebook/Twitter API
 - We tried out Heroku's web services and we loved it. - https://www.heroku.com/
 
+# "Easter Egg"
+- Try to select Teemo and compare with him/her/hamster.
+
 # Technologies
 - PHP/Laravel framework - We choose Laravel as a framework to speed up our development process. - http://laravel.com/
 - Bootstrap - http://getbootstrap.com/
@@ -54,4 +57,4 @@ Count with these requirements:
 - FULL RESPONSIVE
 
 # Licence
-We dont have any.
+We dont have any. (JK!)
