@@ -52,6 +52,7 @@ Count with these requirements:
 - jQuery - https://jquery.com/
 - LESS - http://lesscss.org/
 - Chart.js - http://www.chartjs.org/
+- Animate.css - https://daneden.github.io/animate.css/
 
 # To Do List
 - FULL RESPONSIVE
